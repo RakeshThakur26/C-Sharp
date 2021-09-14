@@ -1,0 +1,12 @@
+Course details
+***************
+Regno : 11
+course : be
+title : java
+
+Course details
+***************
+Regno : 12
+course : be
+title : cad
+
