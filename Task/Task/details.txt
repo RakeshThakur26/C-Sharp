@@ -1,0 +1,14 @@
+Course details
+***************
+Regno : 12
+course : BE
+title : Java
+
+Regno : 20
+course : BSC
+title : Bio
+
+Regno : 30
+course : BCa
+title : DSC
+
